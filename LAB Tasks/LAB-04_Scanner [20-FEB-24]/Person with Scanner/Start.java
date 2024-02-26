@@ -15,7 +15,7 @@ public class Start{
 		int ag = sc1.nextInt();
 		
 		Person p1 = new Person(nm, ID, ag);
-		System.out.printlnn("\nPerson-1 Details: ");
+		System.out.println("\nPerson-1 Details: ");
 		p1.Details();
 		
 		Person p2 = new Person();
