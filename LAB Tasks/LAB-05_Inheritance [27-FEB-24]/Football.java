@@ -10,6 +10,7 @@ public class Football extends Game {
 	public Football(String name, String id, double score, String stadium){
 		super(name, id, score);
 		this.stadium = stadium;
+		System.out.println("\nParameterized constructor of Football");
 	}
 	
 	public void setStadium(String stadium){
@@ -21,6 +22,7 @@ public class Football extends Game {
 	}
 	
 	public void Details(){
-		System.out.println("\nStadium: " + stadium);
+		super.Details();
+		System.out.println("Stadium: " + stadium);
 	}
 }

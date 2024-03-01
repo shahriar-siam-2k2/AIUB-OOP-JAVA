@@ -12,6 +12,7 @@ public class Game {
 		this.name = name;
 		this.id = id;
 		this.score = score;
+		System.out.println("\nParameterized constructor of Game");
 	}
 	
 	public void setName(String name){
@@ -35,7 +36,7 @@ public class Game {
 	}
 	
 	public void Details(){
-		System.out.println("\nName: " + name);
+		System.out.println("Name: " + name);
 		System.out.println("ID: " + id);
 		System.out.println("Score: " + score);
 	}
