@@ -19,6 +19,7 @@ public class StringDemo
 		
 		System.out.println(s1.concat(s3));
 		System.out.println(s1);
+		System.out.println(s2);
 		System.out.println(s3);
 		
 		if(s3 == s5)
@@ -55,6 +56,7 @@ OUTPUT:
 	e
 	HELLO javaHello
 	HELLO java
+
 	Hello
 	No
 	yes
@@ -62,4 +64,5 @@ OUTPUT:
 	HELLO java
 	LO j
 	javaclass
+
 */
