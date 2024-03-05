@@ -21,13 +21,16 @@ public class Start{
 			for(int i=0 ; i<player ; i++){
 				System.out.println("\nEnter Player-" + (i+1) + " Information-");
 				System.out.print("Enter Name: ");
-				name = sc.next();
+				Scanner sc1 = new Scanner(System.in);
+				name = sc1.nextLine();
 				System.out.print("Enter ID: ");
-				id = sc.next();
+				Scanner sc2 = new Scanner(System.in);
+				id = sc2.nextLine();
 				System.out.print("Enter Score: ");
 				score = sc.nextDouble();
 				System.out.print("Enter Stadium: ");
-				stadium = sc.next();
+				Scanner sc3 = new Scanner(System.in);
+				stadium = sc3.nextLine();
 				
 				if(gm[i] == null){
 					gm[i] = new Football(name, id, score, stadium);
