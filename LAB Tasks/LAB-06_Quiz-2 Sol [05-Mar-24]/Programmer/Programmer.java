@@ -18,7 +18,7 @@ public class Programmer {
     public void setEmail(String Email){
         this.Email = Email;
     }
-    public void setSalary(String salary){
+    public void setSalary(double salary){
         this.salary = salary;
     }
     
