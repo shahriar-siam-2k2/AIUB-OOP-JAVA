@@ -44,7 +44,14 @@ public class StringDemo
 		s1 = s1.substring(3,7);
 		System.out.println(s1); 
 		s8=s8.toLowerCase();
-		System.out.println(s8);	
+		System.out.println(s8 + "\n");
+
+		System.out.println(11);
+		System.out.println('1'+'1');
+		System.out.println(1+1);
+		System.out.println("Siam"+1+1);
+		System.out.println("Siam" + (1+1));
+		System.out.println(1+1+"Siam");
 	}
 }
 
@@ -64,5 +71,12 @@ OUTPUT:
 	HELLO java
 	LO j
 	javaclass
+
+	11
+	98
+	2
+	Siam11
+	Siam2
+	2Siam
 
 */
