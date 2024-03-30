@@ -53,7 +53,7 @@ public class StringDemo
 		System.out.println(1+1);
 		System.out.println("Siam"+1+1);
 		System.out.println("Siam" + (1+1));
-		System.out.println(1+1+"Siam");
+		System.out.println(1+1+"Siam\n");
 	}
 }
 

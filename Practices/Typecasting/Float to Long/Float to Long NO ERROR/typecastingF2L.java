@@ -1,6 +1,6 @@
 import java.lang.*;
 
-public class typecastingL2F {
+public class typecastingF2L {
 	public static void main(String[] args) {
 		float f = 5.46F;
 		long l = 5678910L;
