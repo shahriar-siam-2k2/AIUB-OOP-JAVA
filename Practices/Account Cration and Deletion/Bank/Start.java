@@ -6,6 +6,7 @@ public class Start {
         String name, phnnb, accnb, acctype;
         double balance;
         int accCount = 0;
+        boolean flag;
 
         Scanner def = new Scanner(System.in);
         Scanner str1 = new Scanner(System.in);
@@ -18,15 +19,13 @@ public class Start {
         System.out.print("Enter your phone number: ");
         phnnb = str2.nextLine();
 
-        Bank b = new Bank();
-        b.setName(name);
-        b.setPhnNum(phnnb);
+        Bank b = new Bank(name, phnnb, 10);
         
         do{
             System.out.println("\n\tMENU");
             System.out.println("1. Create Account.");
             System.out.println("2. Delete Account.");
-            System.out.println("3. View User Details.");
+            System.out.println("3. View Details.");
             System.out.println("4. Exit.");
             System.out.print("Choose any one: ");
             int option = def.nextInt();
@@ -34,36 +33,52 @@ public class Start {
             if(option == 1){
                 accCount++;
 
-                System.out.println("\nAccount-" + accCount + " Creation");
-                System.out.print("Enter acount number: ");
+                System.out.println("\n\tAccount Creation");
+                System.out.println("Account-" + accCount);
+                System.out.print("Enter account number: ");
                 accnb = str3.nextLine();
-                System.out.print("Enter acount type: ");
+                System.out.print("Enter account type: ");
                 acctype = str4.nextLine();
-                System.out.print("Enter acount balance: ");
+                System.out.print("Enter account balance: ");
                 balance = def.nextDouble();
 
                 Account acc = new Account(accnb, acctype, balance);
-                b.createAcc(acc, accCount);
+
+                flag = b.createAcc(acc, accCount, accnb);
+
+                if(flag == true){
+                    System.out.println("\n\t*Account " + accnb + " Created Successfully!");
+                }
+                else{
+                    System.out.println("\n\t*ACCOUNT CREATION FAILED!");
+                    System.out.println("\t*Account Number Should Be Unique!");
+                    accCount--;
+                }
                 
             }
             else if(option == 2){
                 if(accCount > 0){
-                    System.out.print("\nEnter the account number you want to delete: ");
+                    System.out.println("\n\tAccount Deletion");
+                    System.out.print("Enter the account number you want to delete: ");
                     accnb = str3.nextLine();
 
-                    if(b.deleteAcc(accnb, accCount) == true){
+                    flag = b.deleteAcc(accnb, accCount);
+
+                    if(flag == true){
+                        System.out.println("\n\t*Account " + accnb + " Deleted Successfully!");
                         accCount--;
+                    }
+                    else{
+                        System.out.println("\n\t*ACCOUNT NUMBER NOT FOUND!");
                     }
                 }
                 else{
-                    System.out.println("\n\t*NO ACCOUNT FOUND!");
+                    System.out.println("\n\t*NO ACCOUNT CREATED!");
                 }
             }
             else if(option == 3){
-                if(accCount > 0){
-                    b.details();
-                }
-                else{
+                b.details(accCount);
+                if(accCount == 0){
                     System.out.println("\n\t*NO ACCOUNT CREATED!");
                 }
             }
@@ -72,9 +87,9 @@ public class Start {
                 break;
             }
             else{
-                System.out.println("\n\t*INVALID IMPUT!");
+                System.out.println("\n\t*INVALID INPUT!");
             }
         }
-        while(1==1);
+        while(true);
     }
 }

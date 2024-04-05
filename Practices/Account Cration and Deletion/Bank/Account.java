@@ -5,14 +5,11 @@ public class Account {
     private String type;
     private double balance;
 
-    public Account(){
-        System.out.println("\t*Empty Constructor Called!");
-    }
+    public Account(){}
     public Account(String accnb, String type, double balance){
         this.accnb = accnb;
         this.type = type;
         this.balance = balance;
-        System.out.println("\t*Para Constructor Called!");
     }
 
     public void setAccnb(String accnb){this.accnb = accnb;}
@@ -27,6 +24,6 @@ public class Account {
     public void details(){
         System.out.println("Account number: " + accnb);
         System.out.println("Account Type: " + type);
-        System.out.println("Balance: " + balance + "\n");
+        System.out.println("Balance: " + balance + " BDT" + "\n");
     }
 }

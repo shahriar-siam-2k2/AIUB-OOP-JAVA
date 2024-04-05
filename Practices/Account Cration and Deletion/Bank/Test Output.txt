@@ -1,0 +1,253 @@
+Enter your name: Shahriar Ali Siam
+Enter your phone number: 01629054073
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 2
+
+        *NO ACCOUNT CREATED!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 3
+
+        User Details
+User Name: Shahriar Ali Siam
+User Phone number: 01629054073
+Total Accounts: 0
+
+        User Account Details
+
+        *NO ACCOUNT CREATED!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 1
+
+        Account Creation
+Account-1
+Enter account number: 1234
+Enter account type: DBS
+Enter account balance: 211320
+
+        *Account 1234 Created Successfully!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 1
+
+        Account Creation
+Account-2
+Enter account number: 1234
+Enter account type: Savings
+Enter account balance: 2110
+
+        *ACCOUNT CREATION FAILED!
+        *Account Number Should Be Unique!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 1
+
+        Account Creation
+Account-2
+Enter account number: 74142
+Enter account type: Savings
+Enter account balance: 56410
+
+        *Account 74142 Created Successfully!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 1
+
+        Account Creation
+Account-3
+Enter account number: 85236
+Enter account type: NBA
+Enter account balance: 54541
+
+        *Account 85236 Created Successfully!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 3
+
+        User Details
+User Name: Shahriar Ali Siam
+User Phone number: 01629054073
+Total Accounts: 3
+
+        User Account Details
+Account-1
+Account number: 1234
+Account Type: DBS
+Balance: 211320.0 BDT
+
+Account-2
+Account number: 74142
+Account Type: Savings
+Balance: 56410.0 BDT
+
+Account-3
+Account number: 85236
+Account Type: NBA
+Balance: 54541.0 BDT
+
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 2
+
+        Account Deletion
+Enter the account number you want to delete: 111
+
+        *ACCOUNT NUMBER NOT FOUND!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 2
+
+        Account Deletion
+Enter the account number you want to delete: 74142
+
+
+        *Account 74142 Deleted Successfully!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 3
+
+        User Details
+User Name: Shahriar Ali Siam
+User Phone number: 01629054073
+Total Accounts: 2
+
+        User Account Details
+Account-1
+Account number: 1234
+Account Type: DBS
+Balance: 211320.0 BDT
+
+Account-2
+Account number: 85236
+Account Type: NBA
+Balance: 54541.0 BDT
+
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 2
+
+        Account Deletion
+Enter the account number you want to delete: 1234
+
+        *Account 1234 Deleted Successfully!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 3
+
+        User Details
+User Name: Shahriar Ali Siam
+User Phone number: 01629054073
+Total Accounts: 1
+
+        User Account Details
+Account-1
+Account number: 85236
+Account Type: NBA
+Balance: 54541.0 BDT
+
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 2
+
+        Account Deletion
+Enter the account number you want to delete: 85236
+
+
+        *Account 85236 Deleted Successfully!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 3
+
+        User Details
+User Name: Shahriar Ali Siam
+User Phone number: 01629054073
+Total Accounts: 0
+
+        User Account Details
+
+        *NO ACCOUNT CREATED!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 2
+
+        *NO ACCOUNT CREATED!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 5
+
+        *INVALID INPUT!
+
+        MENU
+1. Create Account.
+2. Delete Account.
+3. View Details.
+4. Exit.
+Choose any one: 4
+
+        THANK YOU
