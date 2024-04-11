@@ -1,0 +1,545 @@
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Startj
+Error: Could not find or load main class Startj
+Caused by: java.lang.ClassNotFoundException: Startj
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+Exception in thread "main" java.lang.NullPointerException: Cannot read field "parent" because "comp" is null
+        at java.desktop/java.awt.Container.addImpl(Container.java:1121)
+        at java.desktop/java.awt.Container.add(Container.java:1033)
+        at java.desktop/javax.swing.JFrame.addImpl(JFrame.java:554)
+        at java.desktop/java.awt.Container.add(Container.java:440)
+        at nbspLogin.<init>(nbspLogin.java:21)
+        at Start.main(Start.java:5)
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>javac *.java
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>
+
+D:\Codings\Programming\AIUB-OOP-JAVA>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+tempCodeRunnerFile.java:1: error: reached end of file while parsing
+Ubuntu
+^
+1 error
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+tempCodeRunnerFile.java:1: error: reached end of file while parsing
+Ubuntu
+^
+1 error
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+tempCodeRunnerFile.java:1: error: reached end of file while parsing
+Ubuntu
+^
+1 error
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+tempCodeRunnerFile.java:1: error: class, interface, enum, or record expected
+nameF.setFont(defFont);
+^
+1 error
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+tempCodeRunnerFile.java:1: error: class, interface, enum, or record expected
+nameF.setFont(defFont);
+^
+1 error
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>nameF = new JTextField();
+'nameF' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>        nameF.setBounds(580, 310, 130, 28);
+'nameF.setBounds' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>        nameF.setFont(defFont);
+'nameF.setFont' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>        panel.add(nameF);nameF = new JTextField();
+'panel.add' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>        nameF.setBounds(580, 310, 130, 28);
+'nameF.setBounds' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>        nameF.setFont(defFont);
+'nameF.setFont' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>r2 = new JRadioButton("Female");
+'r2' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>        r2.setBounds(487, 455, 100, 25);
+'r2.setBounds' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>        r2.setFont(radioFont);
+'r2.setFont' is not recognized as an internal or external command,
+operable program or batch file.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+D:\Codings\Programming\AIUB-OOP-JAVA>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>cd "d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD\" && javac *.java && java Start
+Note: nbspLogin.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+
+d:\Codings\Programming\AIUB-OOP-JAVA\Practices\GUI\Noob Esports LTD>
