@@ -7,22 +7,18 @@ public class Bank {
     private int accCount;
 
     public Bank(){}
-<<<<<<< Updated upstream
     public Bank(String name, String phnnb, int accCount){
-=======
-    public Bank(String name, String phnnb, Account acc, int accCount){
->>>>>>> Stashed changes
         this.name = name;
         this.phnnb = phnnb;
         this.accCount = accCount;
-        this.acc = new Account [accCount];
+        acc = new Account [accCount];
     }
 
     public void setName(String name){this.name = name;}
     public void setPhnNum(String phnnb){this.phnnb = phnnb;}
-    public void setAcc(Account acc, int accCount){
+    public void setAcc(int accCount){
         this.accCount = accCount;
-        this.acc = new Account [accCount];
+        acc = new Account [accCount];
     }
 
     public String getName(){return name;}

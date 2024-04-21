@@ -45,7 +45,6 @@ public class Start {
                 balance = def.nextDouble();
 
                 Account acc = new Account(accnb, acctype, balance);
-<<<<<<< Updated upstream
 
                 flag = b.createAcc(acc, accCount, accnb);
 
@@ -57,10 +56,6 @@ public class Start {
                     System.out.println("\t*Account Number Should Be Unique!");
                     accCount--;
                 }
-=======
-                b.setAcc(acc, accCount);
-                b.createAcc(acc, accCount);
->>>>>>> Stashed changes
                 
             }
             else if(option == 2){
