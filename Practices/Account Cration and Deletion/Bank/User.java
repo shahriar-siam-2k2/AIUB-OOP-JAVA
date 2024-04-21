@@ -1,13 +1,13 @@
 import java.lang.*;
 
-public class Bank {
+public class User {
     private String name;
     private String phnnb;
     private Account acc[];
     private int accCount;
 
-    public Bank(){}
-    public Bank(String name, String phnnb, int accCount){
+    public User(){}
+    public User(String name, String phnnb, int accCount){
         this.name = name;
         this.phnnb = phnnb;
         this.accCount = accCount;

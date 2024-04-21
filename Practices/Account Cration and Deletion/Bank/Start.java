@@ -14,14 +14,14 @@ public class Start {
         Scanner str3 = new Scanner(System.in);
         Scanner str4 = new Scanner(System.in);
 
-        System.out.println("\n\tWELCOME TO SHAHRIAR BANK LTD.");
+        System.out.println("\n\tWELCOME TO SHAHRIAR Bank LTD.");
         
         System.out.print("\nEnter your name: ");
         name = str1.nextLine();
         System.out.print("Enter your phone number: ");
         phnnb = str2.nextLine();
 
-        Bank b = new Bank(name, phnnb, 10);
+        User b = new User(name, phnnb, 10);
         
         do{
             System.out.println("\n\tMENU");
