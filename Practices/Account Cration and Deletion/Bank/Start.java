@@ -14,7 +14,7 @@ public class Start {
         Scanner str3 = new Scanner(System.in);
         Scanner str4 = new Scanner(System.in);
 
-        System.out.println("\n\tWELCOME TO SHAHRIAR Bank LTD.");
+        System.out.println("\n\tWELCOME TO SHAHRIAR BANK LTD.");
         
         System.out.print("\nEnter your name: ");
         name = str1.nextLine();
