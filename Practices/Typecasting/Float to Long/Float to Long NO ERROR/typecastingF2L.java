@@ -8,7 +8,7 @@ public class typecastingF2L {
 		long l1 = 5678910L;
 		
 		System.out.println("\nTypecasting in JAVA");
-		System.out.println("\nLong to Float (Implicit)");
+		System.out.println("\nLong to Float (Explicit)");
 		System.out.println("Before implicit-");
 		System.out.println("f = " + f);
 		System.out.println("l = " + l);

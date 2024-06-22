@@ -21,7 +21,7 @@ public class typecastingL2F {
 		System.out.println("Before Explicit-");
 		System.out.println("f = " + f1);
 		System.out.println("l = " + l1);
-		f = l;
+		f1 = (float)l1;
 		System.out.println("After Explicit-");
 		System.out.println("f = " + f1);
 		System.out.println("l = " + l1);
