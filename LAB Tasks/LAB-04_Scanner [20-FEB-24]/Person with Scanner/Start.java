@@ -9,7 +9,7 @@ public class Start{
 		
 		Scanner sc2 = new Scanner(System.in);
 		System.out.print("Enter ID: ");
-		String ID = sc2.nextLine();
+		String ID = sc1.nextLine();
 		
 		System.out.print("Enter Age: ");
 		int ag = sc1.nextInt();

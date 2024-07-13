@@ -22,6 +22,7 @@ public class Start{
 			id = sc.next();
 			System.out.print("Enter Age: ");
 			ag = sc.nextInt();
+			
 			if(per[i] == null){
 				per[i] = new Person(nm, id, ag);
 			}

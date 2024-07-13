@@ -20,14 +20,18 @@ public class Start{
 		if(op == 1){
 			for(int i=0 ; i<player ; i++){
 				System.out.println("\nEnter Player-" + (i+1) + " Information-");
+
 				System.out.print("Enter Name: ");
 				Scanner sc1 = new Scanner(System.in);
 				name = sc1.nextLine();
+
 				System.out.print("Enter ID: ");
 				Scanner sc2 = new Scanner(System.in);
 				id = sc2.nextLine();
+
 				System.out.print("Enter Score: ");
 				score = sc.nextDouble();
+				
 				System.out.print("Enter Stadium: ");
 				Scanner sc3 = new Scanner(System.in);
 				stadium = sc3.nextLine();
