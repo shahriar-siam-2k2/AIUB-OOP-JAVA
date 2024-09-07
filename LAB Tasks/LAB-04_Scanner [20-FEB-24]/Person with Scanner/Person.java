@@ -33,7 +33,6 @@ public class Person{
 	public int getAge(){
 		return age;
 	}
-	
 	public void Details(){
 		System.out.println("Name: " + name);
 		System.out.println("ID: " + id);
